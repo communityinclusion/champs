@@ -79,14 +79,14 @@
 	height:280px;
 }
 
-#intro {  background: url(/images/books.jpg) no-repeat center center fixed; 
+#intro {  background: url(../images/books.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;}
   .intro-text {text-align: left; margin: auto; max-width: 600px;}
 
-#foggy {  background: url(/images/1x1-ffffffbf.png) no-repeat center center fixed; 
+#foggy {  background: url(../images/1x1-ffffffbf.png) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
