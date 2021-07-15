@@ -1,6 +1,6 @@
 /* navbar */
 .navbar-inverse {
-    background-color: #5C2A78;
+    background-color: #DBCFE1;
     border-color: #5C2A78;
     border-radius:0px;
     min-height:10px;
@@ -8,7 +8,7 @@
 }
 /* title */
 .navbar-inverse .navbar-brand {
-    color: #fff;
+    color: #5C2A78;
 }
 .navbar-inverse .navbar-brand:hover,
 .navbar-inverse .navbar-brand:focus {
@@ -16,12 +16,12 @@
 }
 /* link */
 .navbar-inverse .navbar-nav > li > a {
-    color: #fff;
+    color: #5C2A78;
     font-weight:bold;
 }
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-nav > li > a:focus {
-    color: #fff;
+    color: #5C2A78;
     background-color:#5C2A789;
 }
 .navbar-inverse .navbar-nav > .active > a,
@@ -97,5 +97,12 @@
 	border-radius: 40px 10px;
 	margin-bottom: 2em;}
 
-section.am {
+.max {max-width: 350px;}
 	
+.maxed {max-height: 400px; overflow: scroll; background-color: lightyellow;}
+
+.row {border-bottom: 2px black solid; padding-top:2em; padding-bottom: 2em;}
+
+    .table-bordered, th, td {border: 1px solid #5C2A78 !important;}
+
+    th {background: #DFD5E4 }
